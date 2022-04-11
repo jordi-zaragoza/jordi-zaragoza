@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jordi-zaragoza
-- 👀 I’m interested in programming ofc :)
-- 🌱 I’m currently studying data science and machine learning with python
+- 👀 Interested in programming ofc :)
+- 🌱 Currently studying data science and machine learning with python
 - 💞️ I’m looking to collaborate on free software, open to new opportunities
 - 📫 How to reach me j.z.cuffi@gmail.com
 
